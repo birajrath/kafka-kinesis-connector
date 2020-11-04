@@ -1,7 +1,0 @@
-com/amazon/kinesis/kafka/AmazonKinesisSinkTask$1.class
-com/amazon/kinesis/kafka/AmazonKinesisSinkTask.class
-com/amazon/kinesis/kafka/DataUtility$1.class
-com/amazon/kinesis/kafka/AmazonKinesisSinkConnector.class
-com/amazon/kinesis/kafka/DataUtility.class
-com/amazon/kinesis/kafka/FirehoseSinkConnector.class
-com/amazon/kinesis/kafka/FirehoseSinkTask.class
